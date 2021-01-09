@@ -1,6 +1,7 @@
 ## Welcome to Moiz's Github Page
 
 *Biography*
+
 My name is Moiz Muhammad, and I am a fourth year UCSD student based out of Columbia, Missouri. My major is Math-CS and I am minoring in Economics.  My favorite thing to do in La Jolla is enjoy the beach at Gliderport.
 
 
