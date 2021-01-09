@@ -10,7 +10,7 @@ My name is Moiz Muhammad, and I am a fourth year UCSD student based out of Colum
 
 
 
-***Hobbies:***
+[***Hobbies:***](https://en.wikipedia.org/wiki/List_of_hobbies)
 1. Sports
 2. Building connections with people
 3. Playing Call of Duty Warzone
