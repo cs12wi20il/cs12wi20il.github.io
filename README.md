@@ -1,7 +1,7 @@
 # Welcome to Moiz's Github Page
 
 ## About Me
-###***Biography***
+### ***Biography***
 
 My name is Moiz Muhammad, and I am a fourth year UCSD student based out of Columbia, Missouri. My major is Math-CS and I am minoring in Economics.  My favorite thing to do in La Jolla is enjoy the beach at Gliderport.
 
@@ -10,14 +10,14 @@ My name is Moiz Muhammad, and I am a fourth year UCSD student based out of Colum
 
 
 
-###[***Hobbies:***](https://en.wikipedia.org/wiki/List_of_hobbies)
+### [***Hobbies:***](https://en.wikipedia.org/wiki/List_of_hobbies)
 1. Sports
 2. Building connections with people
 3. Playing Call of Duty Warzone
 4. Watching Sunsets
    
 
-###***Current Lifestyle Short-term Goals:***
+### ***Current Lifestyle Short-term Goals:***
 
 - [ ] Get good grades while internalizing content
 - [x] Fix sleeping schedule
